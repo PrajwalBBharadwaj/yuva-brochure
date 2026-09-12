@@ -155,7 +155,7 @@ function App() {
         </div>
         <div className="cover-copy">
           <p className="eyebrow">A PERFORMANCE BROCHURE</p>
-          <h1>Arishadvarga : Antaryuddham Abhinayavedyam</em></h1>
+          <h1>Six<br/><em>Emotions</em></h1>
           <p className="dek">Six stories. Six states of the human mind. Each one carried to the edge, just before consequence.</p>
           <a href="#krodha" className="begin">Begin the journey <span>↓</span></a>
         </div>
