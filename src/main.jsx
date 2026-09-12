@@ -19,20 +19,21 @@ const stories = [
     ]
   },
   {
-    id: 'lobha',
-    name: 'Lobha',
-    meaning: 'Greed',
-    title: "Duryodhan's Dice Game",
-    color: '#a87516',
-    soft: '#f4e6bd',
-    symbol: 'लोभ',
-    motif: 'lotus',
+    id: 'moha',
+    name: 'Moha',
+    meaning: 'Delusion / Attachment',
+    title: 'The Sacred Veil',
+    color: '#514d87',
+    soft: '#deddf0',
+    symbol: 'मोह',
+    motif: 'veil',
     paragraphs: [
-      'Duryodhan is surrounded by soldiers who celebrate him as powerful, victorious, energetic, and capable of defeating anyone. Yet beneath the praise lies an old wound. He remembers the Maya Sabha at Indraprastha, where the palace itself seemed to shift beneath him. What he believed was solid ground became water, and he fell as Draupadi laughed. His pride was wounded, and that humiliation stayed with him.',
-      'He watches the Pandavas build Indraprastha from nothing, gaining wealth, strength, prosperity, and the love of their people. Unable to tolerate their success, he makes a promise to himself: he will take everything from them. Shakuni recognizes this weakness and offers him a solution. Invite the Pandavas to a friendly game of dice, he says, and I will win everything for you.',
-      'The game begins with small stakes: a necklace, then gold, chariots, horses, elephants, armies, and finally Indraprastha itself. Each victory only makes Duryodhan want more. He demands that the Pandavas wager themselves, and Yudhishthira loses again. Now all five brothers are his slaves. But even that is not enough. Remembering Draupadis laughter, Duryodhana demands her as the final prize. His greed has crossed every boundary, and he stands at the peak of Lobha, wanting to possess everything that once belonged to others.'
+      'Confined to the quiet ache of her bedchamber while a storm rages outside, Radha surrenders to Moha, an attachment so powerful that it begins to bend reality. Through the fluid circular movements of Manipuri dance, her loneliness slowly transforms into a waking trance. She waits for Krishna, but the longer she waits, the less certain she becomes of what is real.',
+      'Every flash of lightning, every roll of thunder, and every movement of fabric begins to carry the presence of Krishna. Radha no longer simply remembers him; she begins to see him everywhere. Rain becomes his presence, the wind becomes his touch, and the empty room begins to feel occupied. Her yearning transforms memory into something almost tangible.',
+      'As Raag Bhairavi deepens and the rhythm accelerates, Radha becomes completely immersed in this imagined presence. The walls of the room seem to dissolve, and devotion becomes indistinguishable from projection. At the peak of Moha, she is suspended between reality and illusion, unable to separate the Krishna she longs for from the Krishna she has created within her own mind.'
     ]
   },
+
   {
     id: 'kama',
     name: 'Kama',
@@ -49,36 +50,6 @@ const stories = [
     ]
   },
   {
-    id: 'matsara',
-    name: 'Matsara',
-    meaning: 'Jealousy',
-    title: 'Kaikeyi and the Poisoned Mind',
-    color: '#44735d',
-    soft: '#dbe9df',
-    symbol: 'मत्सर',
-    motif: 'mirror',
-    paragraphs: [
-      'Kaikeyi paces through her quarters, waiting for news about King Dasharatha. A maid arrives with the news that the king has died. Shocked, Kaikeyi is drawn toward a mirror, where she is forced to confront her own reflection. In it, she sees the consequences of her actions: the king is dead, Rama has been sent into exile, and her own decisions have brought her to this moment.',
-      'Her memories carry her back to happier times. She remembers her childhood, her affection for Rama, and her friendship with Kausalya. Then she remembers the day of Rama’s coronation, when she was genuinely joyful. Manthara approaches her and begins planting fear in her mind. She tells Kaikeyi that once Rama becomes king, Bharata will lose everything and Kaikeyi herself will become powerless, forced to serve Rama and Kausalya.',
-      'The fear slowly becomes jealousy, and jealousy becomes vengeance. Kaikeyi remembers the two boons promised to her by Dasharatha and demands that Bharata be made king and Rama be sent into Vanavasam. For a moment she revels in what she believes she has achieved. Then she is pulled back into the present, where the reality of her actions finally reaches her. The king is dead, Rama is gone, and she has created the fate she now cannot escape.'
-    ]
-  },
-  {
-    id: 'moha',
-    name: 'Moha',
-    meaning: 'Delusion / Attachment',
-    title: 'The Sacred Veil',
-    color: '#514d87',
-    soft: '#deddf0',
-    symbol: 'मोह',
-    motif: 'veil',
-    paragraphs: [
-      'Confined to the quiet ache of her bedchamber while a storm rages outside, Radha surrenders to Moha, an attachment so powerful that it begins to bend reality. Through the fluid circular movements of Manipuri dance, her loneliness slowly transforms into a waking trance. She waits for Krishna, but the longer she waits, the less certain she becomes of what is real.',
-      'Every flash of lightning, every roll of thunder, and every movement of fabric begins to carry the presence of Krishna. Radha no longer simply remembers him; she begins to see him everywhere. Rain becomes his presence, the wind becomes his touch, and the empty room begins to feel occupied. Her yearning transforms memory into something almost tangible.',
-      'As Raag Bhairavi deepens and the rhythm accelerates, Radha becomes completely immersed in this imagined presence. The walls of the room seem to dissolve, and devotion becomes indistinguishable from projection. At the peak of Moha, she is suspended between reality and illusion, unable to separate the Krishna she longs for from the Krishna she has created within her own mind.'
-    ]
-  },
-  {
     id: 'mada',
     name: 'Mada',
     meaning: 'Pride / Ego',
@@ -91,6 +62,36 @@ const stories = [
       'Bhasmasura performs intense penance and receives the darshan of Shiva. When Shiva asks what boon he desires, Bhasmasura asks for the power to turn anyone into ashes simply by placing his hand upon them. Shiva hesitates, sensing the danger in such a gift. But Bhasmasura challenges him, reminding him that he is Bholanath, the compassionate Lord who grants his devotees what they ask for. Shiva finally agrees.',
       'The moment Bhasmasura receives the boon, his pride takes control. Instead of being grateful, he becomes intoxicated by his newfound power and attempts to place his hand upon Shiva himself. Shiva is forced to flee as Bhasmasura chases him. The gods seek Vishnu’s help, and Vishnu appears as Mohini, whose beauty immediately captivates Bhasmasura.',
       'Mohini challenges him to a dance, and Bhasmasura eagerly follows her every movement. His ego is so complete that he forgets the danger of his own boon. Finally, Mohini places her hand upon her own head. Without thinking, Bhasmasura imitates her and places his hand on his head. His own power destroys him. At the peak of Mada, the very power he was proud of becomes the cause of his destruction.'
+    ]
+  },
+  {
+    id: 'lobha',
+    name: 'Lobha',
+    meaning: 'Greed',
+    title: "Duryodhan's Dice Game",
+    color: '#a87516',
+    soft: '#f4e6bd',
+    symbol: 'लोभ',
+    motif: 'lotus',
+    paragraphs: [
+      'Duryodhan is surrounded by soldiers who celebrate him as powerful, victorious, energetic, and capable of defeating anyone. Yet beneath the praise lies an old wound. He remembers the Maya Sabha at Indraprastha, where the palace itself seemed to shift beneath him. What he believed was solid ground became water, and he fell as Draupadi laughed. His pride was wounded, and that humiliation stayed with him.',
+      'He watches the Pandavas build Indraprastha from nothing, gaining wealth, strength, prosperity, and the love of their people. Unable to tolerate their success, he makes a promise to himself: he will take everything from them. Shakuni recognizes this weakness and offers him a solution. Invite the Pandavas to a friendly game of dice, he says, and I will win everything for you.',
+      'The game begins with small stakes: a necklace, then gold, chariots, horses, elephants, armies, and finally Indraprastha itself. Each victory only makes Duryodhan want more. He demands that the Pandavas wager themselves, and Yudhishthira loses again. Now all five brothers are his slaves. But even that is not enough. Remembering Draupadis laughter, Duryodhana demands her as the final prize. His greed has crossed every boundary, and he stands at the peak of Lobha, wanting to possess everything that once belonged to others.'
+    ]
+  },
+  {
+    id: 'matsara',
+    name: 'Matsara',
+    meaning: 'Jealousy',
+    title: 'Kaikeyi and the Poisoned Mind',
+    color: '#44735d',
+    soft: '#dbe9df',
+    symbol: 'मत्सर',
+    motif: 'mirror',
+    paragraphs: [
+      'Kaikeyi paces through her quarters, waiting for news about King Dasharatha. A maid arrives with the news that the king has died. Shocked, Kaikeyi is drawn toward a mirror, where she is forced to confront her own reflection. In it, she sees the consequences of her actions: the king is dead, Rama has been sent into exile, and her own decisions have brought her to this moment.',
+      'Her memories carry her back to happier times. She remembers her childhood, her affection for Rama, and her friendship with Kausalya. Then she remembers the day of Rama’s coronation, when she was genuinely joyful. Manthara approaches her and begins planting fear in her mind. She tells Kaikeyi that once Rama becomes king, Bharata will lose everything and Kaikeyi herself will become powerless, forced to serve Rama and Kausalya.',
+      'The fear slowly becomes jealousy, and jealousy becomes vengeance. Kaikeyi remembers the two boons promised to her by Dasharatha and demands that Bharata be made king and Rama be sent into Vanavasam. For a moment she revels in what she believes she has achieved. Then she is pulled back into the present, where the reality of her actions finally reaches her. The king is dead, Rama is gone, and she has created the fate she now cannot escape.'
     ]
   }
 ];
